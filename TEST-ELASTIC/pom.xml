@@ -27,7 +27,7 @@
 		</plugins>
 	</build>
 	<properties>
-		<spring-version>5.2.22.RELEASE</spring-version>
+		<spring-version>6.0.0</spring-version>
 	</properties>
 	<dependencies>
 		<!-- Spring -->
@@ -75,7 +75,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.7</version>
+			<version>4.13.1</version>
 			<scope>test</scope>
 		</dependency>
 
