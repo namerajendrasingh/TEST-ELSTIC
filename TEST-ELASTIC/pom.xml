@@ -27,7 +27,7 @@
 		</plugins>
 	</build>
 	<properties>
-		<spring-version>6.0.0</spring-version>
+		<spring-version>6.1.14</spring-version>
 	</properties>
 	<dependencies>
 		<!-- Spring -->
